@@ -1,0 +1,5 @@
+.DS_Store
+note_modules
+.tmp
+.sass-cache
+public/images/*
