@@ -1,0 +1,23 @@
+{
+  "name": "roux",
+  "version": "0.0.1",
+  "description": "node and express project for class",
+  "main": "index.js",
+  "scripts": {
+    "test": "this is the test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miketides/rouxclass.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "mike cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketides/rouxclass/issues"
+  },
+  "homepage": "https://github.com/miketides/rouxclass"
+}
